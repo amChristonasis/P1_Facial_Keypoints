@@ -2,6 +2,8 @@
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
 
+# My solution to the first project in the Udacity Computer Vision Nanodegree - Facial Keypoint Detection
+
 # Facial Keypoint Detection
 
 ## Project Overview
